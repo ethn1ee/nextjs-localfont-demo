@@ -40,7 +40,7 @@ export default function Home() {
         <span className={localFontPublic.className}>Hello world</span>
       </p>
       <p>
-        Local font at /src :{" "}
+        Local font at /src:{" "}
         <span className={localFontSrc.className}>Hello world</span>
       </p>
       <p>
